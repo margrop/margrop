@@ -24,6 +24,18 @@ Reproducible engineering labs for incident diagnosis、metrics、logs、token wo
 
 Self-hosted quota and cost dashboard for authorized AI providers，with Docker deployment and provider adapters.
 
+## Account Note
+
+`XingP14` is my second GitHub account.
+
+Projects maintained there are linked as second-account work, not presented as `margrop` originals.
+
+- [`woclaw`](https://github.com/XingP14/woclaw)
+- [`llm-benchmark`](https://github.com/XingP14/llm-benchmark)
+- [`openclaw-config-doctor`](https://github.com/XingP14/openclaw-config-doctor)
+
+`XingP14/claude-code` is not included in the selected work list or job-search portfolio.
+
 ## Writing
 
 - Portfolio: https://blog.margrop.net/career/
